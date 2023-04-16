@@ -26,7 +26,7 @@ Initial Analysis:
 Adjusted Analysis:
 ![image](https://user-images.githubusercontent.com/99148657/161463701-916d1e5c-e8c7-4c43-9dc3-2dea6a980d41.png)
 
-* Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+* Summary: 
 
 1. Thomas High School changed from 91% to 65%.  
 2. The math and reading averages and passing percentages both fell. 
